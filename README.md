@@ -10,7 +10,7 @@
 # BLDC_Motor_Controller 2.0(STM32F103VET6)  
 2020.12 제작 
 # 설명 영상 [here](https://blog.naver.com/engineerjkk/222187850240)
-![image](https://user-images.githubusercontent.com/76835313/114379269-8eb3ad00-9bc3-11eb-934b-1d6a1c4272f6.png)
+![image](https://user-images.githubusercontent.com/76835313/116801615-77266f00-ab46-11eb-94b8-345065281c4b.png)
 ![image](https://user-images.githubusercontent.com/76835313/114378942-2f559d00-9bc3-11eb-878d-36cb76e33686.png)
 ![image](https://user-images.githubusercontent.com/76835313/114379084-58762d80-9bc3-11eb-884a-2613a58eef7f.png)
 ![image](https://user-images.githubusercontent.com/76835313/114378993-3ed4e600-9bc3-11eb-9c7b-e2073814e7f4.png)
